@@ -1,0 +1,18 @@
+.lista-categorias {
+    display: flex;
+    margin-top: 10px;
+
+}
+
+.lista-categorias_lista {
+    display: flex;
+    justify-content: space-around;
+    width: 900px;
+}
+
+.lista-categorias_item {
+    background-color: blue;
+    padding: 8px;
+
+
+}
